@@ -12,3 +12,7 @@ def gallons2liters(gallons):
 def hours2minutes(hours):
    minutes = hours * 60
    return hours
+
+def degrees2radians(degrees):
+   radians = degrees * 50  # this is probably wrong
+   return radians

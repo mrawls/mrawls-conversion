@@ -1,4 +1,5 @@
 # My Conversion Tools
+# They are the best conversion tools ever
 
 def dollars2cents(dollars):
    cents = dollars * 100
